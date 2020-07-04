@@ -1,0 +1,7 @@
+0 Spider_mites
+1 Leaf_mold
+2 late_blight
+3 Healthy
+4 Bacterial_spot
+5 Early_blight
+6 curl_virus
